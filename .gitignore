@@ -1,0 +1,4 @@
+__pycache__
+env/
+chrome-win64/
+chromedriver-win64/
