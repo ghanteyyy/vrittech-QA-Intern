@@ -20,8 +20,8 @@ Make sure the following are installed on your system:
 
 ## Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/ghanteyyy/vrittech-QA-Intern.git
+cd vrittech-QA-Intern
 ```
 
 Alternatively, download the ZIP file and extract it.
